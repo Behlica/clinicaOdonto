@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="img\dev.png">
+    <link rel="stylesheet" href="styleCss\mainStyleClinica.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClinicaOdonto</title>
+</head>
+<body>
+    <div class="container">
+        <img src="img\dental-checkup.png" alt="clinica" class="alta">
+        <h1>Consultório Odontológico</h1>
+        <form>
+            <p>Paciente: 
+                <input type="text" id="inPaciente" required autofocus>
+                <input type="submit" value="Adicionar">
+                <input type="button" id="btUrgencia" value="Urgência">
+                <input type="button" id="btAtender" value="Atender">
+            </p>
+        </form>
+        <h3>Em Atendimento: 
+            <span class="fonte-azul"></span>
+        </h3>
+        <pre></pre>
+    <script src="script\odonto.js"></script>
+</body>
+</html>
