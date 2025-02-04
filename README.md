@@ -1,4 +1,6 @@
-Gestão de Pacientes para Clínica Odontológica
+<h1>Gestão de Pacientes para Clínica Odontológica</h1>
+
+
 Este projeto ilustra um sistema de gestão de pacientes desenvolvido especialmente para uma clínica odontológica. Ele visa proporcionar um aprendizado abrangente em JavaScript, focando em diversas técnicas essenciais:
 
 Objetivos do Projeto
